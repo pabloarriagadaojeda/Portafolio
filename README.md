@@ -18,9 +18,13 @@ The second project involved a deep analysis of customer clustering for a store. 
 
 This project was divided into two parts. In the first part, I conducted web scraping to gather data on 1012 Mazda vehicles for sale on www.chileautos.cl. The second part focused on data cleaning and visualization, providing valuable insights into these vehicles and enhancing their understanding.
 
-**Project 4: Análisis de datos usando Youtube API**
+**Project 4: Data Analysis using Youtube API**
 
 In this project, we dive into the world of data acquisition through the YouTube API. Our goal is to build upon our previous work related to Web Scraping, leveraging the capabilities offered by the YouTube API, and ultimately conduct a comprehensive comparison.
+
+**Project 5: Anomaly detection in bank transactions**
+
+The fifth project is one of the first approaches to detecting anomalies in bank fraud. Using the unsupervised Isolation Forest model, anomalous values are identified, suggesting that the flagged transactions could be fraudulent.
 
 ***
 
@@ -45,3 +49,7 @@ Este proyecto se dividió en dos partes. En la primera, realicé Web Scraping pa
 **Proyecto 4: Análisis de datos usando Youtube API**
 
 En este proyecto, nos sumergimos en el mundo de la obtención de datos a través de la API de YouTube. Nuestra meta es dar continuidad al trabajo previo relacionado con Web Scraping, aprovechando las capacidades que ofrece la API de YouTube y, al finalizar, llevar a cabo una comparativa exhaustiva.
+
+**Proyecto 5: Detección de Anomalías en transacciones bancarias**
+
+El quinto proyecto es uno de los primeros aceracamientos a la detección de anomalías en fraude bancario. Mediante el modelo no supervisado Isolation Forest, se localizan valores anómalos, los que sugieren que las transacciones marcadas podrían ser fraudulentas.
